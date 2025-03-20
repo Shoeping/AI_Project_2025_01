@@ -47,7 +47,6 @@ Heading 1
 ##### Heading 5
 
 <!--Table-->
-
 |Header|Description|Other|
 |--:|:--|:--:|
 |Cell1|Cell2|Cell3|
