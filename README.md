@@ -45,13 +45,14 @@ Heading 1
 
 <!--Table-->
 
-| Header | Description Other|
---: :--.:--?
-|Ce111 Cel12: Cel13|
-|Ce111 Cel12|Ce113|
-|Cel11|Cel12|Cel13|
-ㅣㅣCell1 Cel12| Cel13|
-| Cel11|Cel12|Cel13|
+|Header|Description|Other|
+|--:|:--|:--:|
+|Cell1|Cell2|Cell3|
+|Cell1|Cell2|Cell3|
+|Cell1|Cell2|Cell3| 
+|Cell1|Cell2|Cell3|
+|Cell1|Cell2|Cell3|
+
 :-- 좌 정렬
 --: 우 정렬
 :--: 중앙 정렬
